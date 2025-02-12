@@ -1,6 +1,6 @@
 # AI-powered product search and price comparison assistant based on Kimi
 
-This project introduces an advanced search and comparison system leveraging large-scale text generation models. Designed to interact seamlessly with users, the system delves into their specific requirements and preferences to deliver tailored product search results. Additionally, it facilitates product comparisons, aiding users in identifying the best value-for-money options.
+This project introduces a search and comparison system leveraging large-scale text generation models. Designed to interact seamlessly with users, the system delves into their specific requirements and preferences to deliver tailored product search results. Additionally, it facilitates product comparisons, aiding users in identifying the best value-for-money options.
 
 ### Key Features
 
@@ -25,3 +25,7 @@ This project introduces an advanced search and comparison system leveraging larg
    - Get personalized product recommendations based on your inputs.
 3. **Compare Products**:
    - Use the system to compare different products and identify the best options.
+
+### Plan for Improvement
+
+This project was completed in September 2023 when I had just started exploring large language models. Many of the methods that are now mature were merely my initial attempts at the time. Since then, OpenAI's DeepResearch has achieved my original ideas more effectively. I deeply admire their work and will strive to learn and improve from it.
